@@ -18,4 +18,8 @@
 
 ---
 
-`*我爱一切 我爱的 和 爱我的！*`
+  private Human getGirlFriend(){
+    return null;
+  }
+  
+[我的图片](./icons/myicon1.gif)
