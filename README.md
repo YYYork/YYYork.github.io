@@ -10,19 +10,20 @@
 
 ### 也许我有很多优点
 
-(May be I have many advantages)
+(May be I have many advantages...)
 
-- 例如  (such as)
-  - 帅气  (handsome)
-  - 阳光  (outgoing)
-  - 聪明  (smart)
-  - 积极向上(positive)
+- 例如    (such as)
+  - 帅气   (handsome)
+  - 阳光    (outgoing)
+  - 聪明    (smart)
+  - 积极向上    (positive)
 
 我的QQ是 `2264117533`
 
 (My QQ number is)
 
 > 欢迎来找我玩~
+> 
 > (Feel free to come to play with me!)
 > 
 > ***Friendship is Magic!***
