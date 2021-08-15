@@ -19,4 +19,4 @@
 > Friendship is Magic!  
 
 
-![我的图片](./icons/myicon1.png)
+![我的图片](./icons/myicon1.gif)
