@@ -4,7 +4,7 @@
 
 *你好，我是这个世界上最傻的憨憨*
 
-(Hello I am the most lovely boy all over the world)
+(Hello,I am the most lovely boy all over the world.)
 
 ---
 
