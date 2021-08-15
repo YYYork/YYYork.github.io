@@ -16,7 +16,7 @@
 
 > 欢迎来找我玩~
 > 
-> **Friendship is Magic!**
+> ***Friendship is Magic!***
 
 ---
 
