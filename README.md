@@ -17,5 +17,4 @@
 
 > Friendship is Magic!  
 
-
-![我的图片](./icon.png)
+![我的图片](./icons/icon.png)
