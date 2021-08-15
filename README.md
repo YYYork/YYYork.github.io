@@ -18,11 +18,4 @@
 > Friendship is Magic!  
 
 
-
-
-## 做我的朋友  
-
-
-[点击与我做朋友](https://www.baidu.com)
-
 ![我的图片](./icon.png)
