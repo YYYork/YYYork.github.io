@@ -12,15 +12,18 @@
 
 (May be I have many advantages)
 
-- 例如(such as)
-  - 帅气(handsome)
-  - 阳光(outgoing)
-  - 聪明(smart)
+- 例如  (such as)
+  - 帅气  (handsome)
+  - 阳光  (outgoing)
+  - 聪明  (smart)
   - 积极向上(positive)
 
-我的QQ是 `2264117533`(My QQ number is)
+我的QQ是 `2264117533`
 
-> 欢迎来找我玩~(Feel free to come to play with me!)
+(My QQ number is)
+
+> 欢迎来找我玩~
+> (Feel free to come to play with me!)
 > 
 > ***Friendship is Magic!***
 
