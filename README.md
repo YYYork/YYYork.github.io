@@ -17,4 +17,4 @@
 Friendship is Magic!  
 
 ### 做我的朋友  
-[link]点击与我做朋友(https://www.baidu.com)
+点击与我做朋友(https://www.baidu.com)
