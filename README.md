@@ -1,6 +1,6 @@
 ## 欢迎来到我的网站
 
-*你好，我是这个世界上最大的憨憨*
+*你好，我是这个世界上最傻的憨憨*
 
 ---
 
@@ -18,8 +18,4 @@
 
 ---
 
-  private Human getGirlFriend(){
-    return null;
-  }
-  
 ![我的图片](./icons/myicon1.gif)
