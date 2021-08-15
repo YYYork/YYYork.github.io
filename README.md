@@ -24,3 +24,5 @@
 
 
 [点击与我做朋友](https://www.baidu.com)
+
+![我的图片](img/icon.png)
